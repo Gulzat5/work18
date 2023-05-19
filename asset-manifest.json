@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/work18/static/css/main.c7ec3132.css",
+    "main.js": "/work18/static/js/main.fa4798bc.js",
+    "index.html": "/work18/index.html",
+    "main.c7ec3132.css.map": "/work18/static/css/main.c7ec3132.css.map",
+    "main.fa4798bc.js.map": "/work18/static/js/main.fa4798bc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c7ec3132.css",
+    "static/js/main.fa4798bc.js"
+  ]
+}
